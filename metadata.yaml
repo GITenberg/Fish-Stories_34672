@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37066'
     url: http://www.gutenberg.org/2009/agents/37066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34672#Fish-Stories
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
